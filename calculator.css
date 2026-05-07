@@ -59,3 +59,8 @@ body{
 .button:active{
     background: rgb(85, 114, 117);
 }
+
+.button:focus{
+    outline:none;
+    background:black;
+}
