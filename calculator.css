@@ -58,6 +58,7 @@ body{
 
 .button:active{
     background: rgb(85, 114, 117);
+    transform:scale(0.95);
 }
 
 .button:focus{
